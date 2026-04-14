@@ -55,9 +55,9 @@ export default function Home() {
       <section className="hero">
         <p className="hero-eyebrow">Indie software studio — Est. 2026</p>
         <h1 className="hero-title">
-          East wind.
+          Simple. Useful.
           <br />
-          <em>Forward motion.</em>
+          <em>Crafted.</em>
         </h1>
         <p className="hero-sub">
           We build software that's simple, useful,

@@ -14,8 +14,15 @@ const dmMono = DM_Mono({
 });
 
 export const metadata = {
-  title: "Eurus - East wind. Forward motion.",
-  description: "Indie software studio — Est. 2026. We build software that's simple, useful, and crafted with care.",
+  title: "Eurus — Simple. Useful. Crafted.",
+  description: "Eurus is an indie software studio building tools that are simple, useful, and crafted with deliberation.",
+  openGraph: {
+    images: ["/EURUS_software_studio.jpeg"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/EURUS_software_studio.jpeg"],
+  },
 };
 
 export default function RootLayout({ children }) {
