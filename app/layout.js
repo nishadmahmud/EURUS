@@ -14,7 +14,7 @@ const dmMono = DM_Mono({
 });
 
 export const metadata = {
-  title: "Eurus — Simple. Useful. Crafted.",
+  title: "Eurus - Simple. Useful. Crafted.",
   description: "Eurus is an indie software studio building tools that are simple, useful, and crafted with deliberation.",
   openGraph: {
     images: ["/EURUS_software_studio.jpeg"],
